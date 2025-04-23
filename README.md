@@ -44,6 +44,8 @@ This is a lightweight ERP (Enterprise Resource Planning) system built entirely i
 
 ##  Screenshots
 
+### Dashboard
+![Dashboard] (docs/screenshots/dashboard.png)
 
 ---
 
