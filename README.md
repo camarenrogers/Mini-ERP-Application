@@ -17,9 +17,9 @@ This is a lightweight ERP (Enterprise Resource Planning) system built entirely i
 ## 📁 File Contents
 
 - `Mini ERP Application.xlsm` – The main Excel workbook (macros-enabled)
-- `docs/screenshots/` – *(Optional)* Screenshots of the ERP in action
-- `docs/feature-notes.md` – *(Optional)* Extra details on how each feature works
-- `macros/erp_macros.bas` – *(Optional)* Exported VBA code (view/edit outside Excel)
+- `docs/screenshots/`
+- `docs/feature-notes.md` 
+- `macros/erp_macros.bas` 
 
 ---
 
