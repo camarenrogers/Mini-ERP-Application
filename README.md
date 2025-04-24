@@ -13,12 +13,21 @@ This is a lightweight ERP (Enterprise Resource Planning) system built entirely i
 
 ---
 
-## 📁 File Contents
+##  Key Features
 
-- `Mini ERP Application.xlsm` – The main Excel workbook (macros-enabled)
-- `docs/screenshots/`
-- `docs/feature-notes.md` 
-- `macros/erp_macros.bas` 
+-  **Inventory Management**  
+  Track stock levels, product details, categories, and costs
+
+-  **Sales and Purchase Orders**  
+  Input transactions, auto-calculate totals, and generate printable invoices
+
+- 📈 **Dashboards & Reports**  
+  Visual charts and pivot tables for quick insights into business operations
+
+-  **Macros / VBA Automation**  
+  Includes buttons for resetting data, printing invoices, and other shortcuts
+
+--- 
 
 ---
 
@@ -40,6 +49,8 @@ This is a lightweight ERP (Enterprise Resource Planning) system built entirely i
 
 
 
+
+Created by [Camaren Rogers](https://github.com/camarenrogers)
 
 ---
 
