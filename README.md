@@ -1,6 +1,6 @@
 #  Mini ERP Application (Excel)
 
-This is a lightweight ERP (Enterprise Resource Planning) system built entirely in **Microsoft Excel** using formulas, pivot tables, and VBA macros. It's designed to help small businesses manage core operations such as inventory, sales, and HR from a single, easy-to-use workbook.
+This is a lightweight ERP (Enterprise Resource Planning) system built entirely in **Microsoft Excel** using formulas, and VBA macros. It's designed to help small businesses manage core operations such as inventory, sales, and orders from a single, easy-to-use workbook.
 
 ---
 
@@ -8,7 +8,6 @@ This is a lightweight ERP (Enterprise Resource Planning) system built entirely i
 
 -  **Inventory Management**: Track products, categories, stock levels, and costs
 -  **Sales & Purchase Orders**: Enter transactions and calculate totals automatically
--  **HR Module**: Maintain employee records and generate salary info
 -  **Dashboards**: Visual insights using charts and pivot tables
 -  **Macros**: VBA-based automation for resetting data, printing invoices, and more
 
@@ -36,16 +35,11 @@ This is a lightweight ERP (Enterprise Resource Planning) system built entirely i
 
 ##  Technologies Used
 
-- **Microsoft Excel** (formulas, pivot tables)
+- **Microsoft Excel** (formulas)
 - **VBA Macros**
 
 
----
 
-##  Screenshots
-
-### Dashboard
-![Dashboard] (docs/screenshots/dashboard.png)
 
 ---
 
